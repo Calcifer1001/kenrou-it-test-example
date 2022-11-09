@@ -1,4 +1,4 @@
-# Kenrou IT - Tesing example
+# Kenrou IT - Testing example
 
 This is dedicated for the Kenrou IT students so they can learn a little bit more about testing
 
